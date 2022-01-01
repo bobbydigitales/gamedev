@@ -1,4 +1,4 @@
-# How to land your first job as a game developer: the resume
+# _How to land your first job as a game developer: the resume_
 
 For a while now, I’ve been offering advice on Twitter to graduates and junior developers applying for their first job in games. I thought I’d summarize the main things I see when helping them.
 For some context, I’ve been a game developer for 20 years, and a hiring manager at six different game companies where I estimate I’ve read at least 1000 resumes. Here’s what goes through my head when I’m reviewing resumes, hope you enjoy it :)
@@ -43,4 +43,4 @@ Edit it down, be concise and discard irrelevant information. You should be able 
 
 If you follow these rules, you’ll end up with a resume that presents your work in the best possible light and you’ll give yourself the best chance of success.
 
-Good luck!
+**Good luck!**
